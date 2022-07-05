@@ -1,0 +1,138 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    color: #fff;
+    padding-top: 100px;
+}
+
+#main {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+}
+
+#text-portion {
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.anchor {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 25px;
+
+
+}
+
+.anchor-style {
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    padding: 15px;
+    border-radius: 5px;
+
+}
+
+.donate-part {
+    text-align: center;
+    padding-top: 25px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.donate-text {
+    font-size: 20px;
+}
+
+#middle-part {
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+
+    box-shadow: 10px 10px 40px cornflowerblue;
+    padding: 15px;
+    margin: 15px;
+}
+
+.second {
+    border: 5px solid crimson;
+}
+
+#amount {
+    text-align: center;
+}
+
+#line {
+    width: 3in;
+    height: 2px;
+    background-color: black;
+}
+
+.flexible-part {
+    display: flex;
+    margin: 10px;
+    padding-top: 20px;
+}
+
+.three-box {
+    padding: 35px;
+    box-shadow: 10px 10px 40px cadetblue;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.first-one {
+    background-color: blanchedalmond;
+}
+
+.second-one {
+    background-color: burlywood;
+}
+
+.third-one {
+    background-color: aqua;
+}
+
+.funds {
+    width: 50%;
+    margin-left: 20px;
+}
+
+.sub-text {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 400;
+    color: orange;
+}
+
+#email-details {
+    width: 150px;
+    height: 50px;
+    color: bisque;
+}
+
+.footer-part {
+    text-align: center;
+    padding-top: 25px;
+    background-color: rgb(21, 30, 78);
+    color: #fff;
+}
